@@ -1,1 +1,15 @@
+/* Material Theme */
+
+@import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
+
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+    margin: 0;
+}
+
+.main-container {
+    margin-top: 5px;
+    padding: 10px;
+}
